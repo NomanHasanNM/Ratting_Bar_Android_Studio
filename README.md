@@ -1,1 +1,1 @@
-# Ratting_Bar_Android_Studio
+# Ratting_Bar_Android_Studio and SeekBar
